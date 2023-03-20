@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/screenshot.png" width="190px"/>
+<img src="./src/assets/screenshot.png" width="190px"/>
 </p>
 <h1 align="center">Quizz A</h1>
 
@@ -40,18 +40,14 @@ It will give to you an file ate ./packages directory
 
 **Victor Luiz**
 
-- Github: [@maykbrito](https://github.com/victorlui)
-- LinkedIn: [@maykbrito](https://linkedin.com/in/victor-gonzalez-071913122/o)
+- Github: [@victorlui](https://github.com/victorlui)
+- LinkedIn: [@victorlui](https://linkedin.com/in/victor-gonzalez-071913122/o)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/victorlui/Quizz/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/victorlui/quizz/issues).
 
 ## 📝 License
 
 Copyright © 2023 [Victor Luiz](https://github.com/victorlui).<br />
 This project is [MIT](https://github.com/victorlui/Quizz/blob/master/LICENSE) licensed.
-
----
-
-_💜_
