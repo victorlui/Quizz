@@ -1,7 +1,7 @@
 <p align="center">
-<img src=".github/screenshot.png" width="320px"/>
+<img src=".github/screenshot.png" width="100%"/>
 </p>
-<h1 align="center">Quizz A</h1>
+<h1 align="center">Quizz</h1>
 
 > Simple quiz project made with vue framework, vue-router and state management using pinia
 
