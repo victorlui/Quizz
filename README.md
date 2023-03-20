@@ -1,5 +1,5 @@
 <p align="center">
-<img src=".github/screenshot.png" width="190px"/>
+<img src=".github/screenshot.png" width="320px"/>
 </p>
 <h1 align="center">Quizz A</h1>
 
